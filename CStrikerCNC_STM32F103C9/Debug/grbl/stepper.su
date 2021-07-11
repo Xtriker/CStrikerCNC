@@ -1,0 +1,11 @@
+stepper.c:159:6:st_deenergize	8	static
+stepper.c:170:6:st_wake_up	0	static
+stepper.c:182:15:st_go_idle	8	static
+stepper.c:244:15:stepper_driver_interrupt_handler	24	static
+stepper.c:446:6:st_reset	40	static
+stepper.c:493:6:st_rpm_changed	0	static
+stepper.c:499:6:st_update_plan_block_parameters	16	static
+stepper.c:509:6:st_parking_setup_buffer	4	static
+stepper.c:526:6:st_parking_restore_buffer	16	static
+stepper.c:556:6:st_prep_buffer	96	static
+stepper.c:982:7:st_get_realtime_rate	0	static

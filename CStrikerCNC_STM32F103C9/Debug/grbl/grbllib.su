@@ -1,0 +1,2 @@
+grbllib.c:52:13:stream_tx_blocking	0	static
+grbllib.c:86:5:grbl_enter	48	static

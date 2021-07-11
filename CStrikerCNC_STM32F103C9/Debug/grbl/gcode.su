@@ -1,0 +1,8 @@
+gcode.c:185:22:init_sync_motion	48	static
+gcode.c:164:13:add_output_command.constprop	16	static
+gcode.c:88:8:gc_get_scaling	0	static
+gcode.c:93:16:gc_get_g51_state	16	static
+gcode.c:108:7:gc_get_offset	16	static
+gcode.c:118:6:gc_init	32	static
+gcode.c:158:6:gc_set_laser_ppimode	0	static
+gcode.c:214:15:gc_execute_block	200	static

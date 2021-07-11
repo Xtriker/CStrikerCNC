@@ -1,0 +1,9 @@
+usb_serial.c:112:9:usbGetC	0	static
+usb_serial.c:126:16:usbGetNull	0	static
+usb_serial.c:44:6:usbInit	8	static
+usb_serial.c:54:10:usbRxFree	0	static
+usb_serial.c:63:6:usbRxFlush	0	static
+usb_serial.c:71:6:usbRxCancel	0	static
+usb_serial.c:82:6:usbWriteS	24	static
+usb_serial.c:131:6:usbSuspendInput	8	static
+usb_serial.c:141:6:usbBufferInput	32	static

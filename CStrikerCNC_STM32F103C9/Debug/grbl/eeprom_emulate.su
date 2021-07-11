@@ -1,0 +1,6 @@
+eeprom_emulate.c:93:23:ram_get_byte	0	static
+eeprom_emulate.c:98:20:ram_put_byte	4	static
+eeprom_emulate.c:160:13:memcpy_from_ram_with_checksum	24	static
+eeprom_emulate.c:106:13:memcpy_to_ram_with_checksum	24	static
+eeprom_emulate.c:174:6:eeprom_emu_init	24	static
+eeprom_emulate.c:218:6:eeprom_emu_sync_physical	24	static

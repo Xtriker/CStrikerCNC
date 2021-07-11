@@ -1,0 +1,14 @@
+settings.c:221:6:settings_write_coord_data.part.0	8	static
+settings.c:175:6:settings_write_build_info	0	static
+settings.c:182:6:settings_read_build_info	16	static
+settings.c:194:6:settings_write_startup_line	8	static
+settings.c:207:6:settings_read_startup_line	24	static
+settings.c:221:6:settings_write_coord_data	8	static
+settings.c:234:6:settings_read_coord_data	24	static
+settings.c:248:6:settings_write_tool_data	0	static
+settings.c:263:6:settings_read_tool_data	0	static
+settings.c:280:6:read_global_settings	8	static
+settings.c:287:6:write_global_settings	8	static
+settings.c:297:6:settings_restore	40	static
+settings.c:351:15:settings_store_global_setting	24	static
+settings.c:814:6:settings_init	16	static

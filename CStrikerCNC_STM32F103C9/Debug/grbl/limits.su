@@ -1,0 +1,6 @@
+limits.c:45:15:limit_interrupt_handler	8	static
+limits.c:71:6:limits_set_machine_positions	24	static
+limits.c:96:13:limits_homing_cycle	144	static
+limits.c:274:6:limits_go_home	24	static
+limits.c:303:6:limits_soft_check	16	static
+limits.c:324:6:limits_set_homing_axes	4	static

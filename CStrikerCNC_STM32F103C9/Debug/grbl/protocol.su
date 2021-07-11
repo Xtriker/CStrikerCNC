@@ -1,0 +1,8 @@
+protocol.c:53:6:protocol_enqueue_gcode	8	static
+protocol.c:315:6:protocol_auto_cycle_start	8	static
+protocol.c:352:6:protocol_message	16	static
+protocol.c:376:6:protocol_exec_rt_system	32	static
+protocol.c:334:6:protocol_execute_realtime	24	static
+protocol.c:71:6:protocol_main_loop	48	static
+protocol.c:298:6:protocol_buffer_synchronize	16	static
+protocol.c:650:15:protocol_enqueue_realtime_command	8	static

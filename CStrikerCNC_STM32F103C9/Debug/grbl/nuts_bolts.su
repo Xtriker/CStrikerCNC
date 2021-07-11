@@ -1,0 +1,9 @@
+nuts_bolts.c:60:7:uitoa	8	static
+nuts_bolts.c:79:7:ftoa	24	static
+nuts_bolts.c:140:6:read_float	48	static
+nuts_bolts.c:203:6:isintf	8	static
+nuts_bolts.c:209:6:delay_sec	24	static
+nuts_bolts.c:227:7:convert_delta_vector_to_unit_vector	24	static
+nuts_bolts.c:249:7:limit_value_by_axis_maximum	24	static
+nuts_bolts.c:263:9:calc_checksum	4	static
+nuts_bolts.c:275:6:dummy_handler	0	static

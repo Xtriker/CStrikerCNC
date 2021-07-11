@@ -1,0 +1,11 @@
+serial.c:147:9:serialGetC	0	static
+serial.c:161:16:serialGetNull	0	static
+serial.c:36:6:serialInit	56	static
+serial.c:63:10:serialRxFree	0	static
+serial.c:72:6:serialRxFlush	0	static
+serial.c:80:6:serialRxCancel	0	static
+serial.c:103:6:serialPutC	24	static
+serial.c:125:6:serialWriteS	32	static
+serial.c:136:6:serialWrite	32	static
+serial.c:166:6:serialSuspendInput	8	static
+serial.c:176:6:USART1_IRQHandler	16	static
